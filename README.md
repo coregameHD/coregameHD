@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![coregameHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=coregameHD)](https://github.com/coregameHD/github-readme-stats)
+
 <!--
 **coregameHD/coregameHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
